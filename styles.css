@@ -67,7 +67,7 @@ body {
     padding: 10px;
 }
 #logo-hover:hover {
-    content: url(/exercise-projects/niv-landing-page/Content/Images/signiture-light.png);
+    content: url(./Content/Images/signiture-light.png);
 }
 .tree{
     margin: 10px 15px 0;
